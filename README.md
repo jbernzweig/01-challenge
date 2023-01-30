@@ -10,7 +10,7 @@ n/a
 
 ## Usage
 
-To Do:
+This website was built to account for Semantic HTML elements for optimal accessibility. The page has been refactored in accordance with the guidelines for 01-Challenge.
 
 ## Credits
 
