@@ -77,7 +77,7 @@ section {
     margin-left: 20px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -88,7 +88,7 @@ section {
     background-color: #2589bd;
 }
 
-.benefit {
+aside {
     margin-bottom: 32px;
     color: #ffffff;
 }

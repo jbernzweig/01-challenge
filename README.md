@@ -1,38 +1,21 @@
 # 01-challenge
-# Foobar
 
-Foobar is a Python library for dealing with word pluralization.
+# Description
+
+This website was created to satisfy the Week 1 Challenge Homework. It contains HTML & CSS to render a website with Semantic HTML elements and accompanying CSS.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
+n/a 
 
 ## Usage
 
-```python
-import foobar
+To Do:
 
-# returns 'words'
-foobar.pluralize('word')
+## Credits
 
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+n/a
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+Please refer to the LICENSE in the repo.
